@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Game List</string>
+    <string name="games_name">Nama Game</string>
+    <string name="detail">Detail</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">CardView</string>
+    <string name="my_name">Salsabila Khairunissa</string>
+    <string name="my_email">a0050361@bangkit.academy</string>
+    <string name="about">About</string>
+    <string name="title">Game Title</string>
+    <string name="genre">Genre</string>
+    <string name="release">Release Date</string>
+    <string name="age">Age Restriction</string>
+    <string name="desc">Description</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
